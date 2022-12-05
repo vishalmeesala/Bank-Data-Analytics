@@ -1,2 +1,2 @@
-# Bank-Data-Analytics
-Data Mining and Analytics for bank dataset
+# Bank Marketing Analysis
++ Data Mining and Analytics for bank marketing dataset
